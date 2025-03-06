@@ -1,0 +1,23 @@
+.title {
+  background-color: chocolate;
+  text-align: center;
+}
+
+.car-pic {
+  width: 10em;
+  height: 5em;
+}
+
+div {
+  text-align: center;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+.table-design {
+  width: 100%;
+}
